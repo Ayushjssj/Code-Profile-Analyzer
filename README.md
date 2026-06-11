@@ -156,7 +156,6 @@ Manage coding profiles:
 * FastAPI
 * Python
 * JWT Authentication
-* Motor
 
 ### Database
 
