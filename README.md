@@ -358,8 +358,8 @@ http://localhost:5173
 
 ### Ayush Pandey
 
-🚀 GenAI Engineer
-🛡️ Agentic AI Developer
+🚀 GenAI Engineer<br>
+🛡️ Agentic AI Developer<br>
 💻 AI & Full Stack Developer
 
 ---
